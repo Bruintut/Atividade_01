@@ -53,7 +53,7 @@ console.log('Aproximando para dar o golpe final, uma voz dentro da cabeça de vo
 console.log('Mas isto parecia uma habilidade estranha, e então a decisão, voces irão sacrificar o chefe final? SIM ou NÃO')
 const quest5 = prompt ('').toLowerCase();
 
-/*Adicionado a variável sim, para identificação posterior..*/
+/*Adicionado a variável sim, para identificação posterior.*/
 
 let sim = ('sim')
 
